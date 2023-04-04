@@ -1,6 +1,6 @@
 #The questions and answers stored.
-questions = ["what main classes are in A block?", " what main classes are in B block?", " what main classes are in C block", " what main classes are in E block", "What is the main subject studied in F-block?", "what main classes are in G block?", "what main classes are in H block?", "what main classes are in M block?", ] #questions variable
-answers = ["Art", "Tech", "Math", "Woodwork and metalwork", "Science", "English", "Food", "Music"] #answers variable 
+questions = [" What main classes are in A block?", " What main classes are in B block?", " What main classes are in C block?", " What main classes are in E block?", " What main classes are in F block?", " What main classes are in G block?", " What main classes are in H block?", " What main classes are in M block?", ] #questions variable
+answers = ["Art", "Tech", "Math", "Woodwork and Metalwork", "Science", "English", "Food", "Music"] #answers variable 
 
 
 def Function():
